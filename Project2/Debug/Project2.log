@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(50,56): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(50,30): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(55,33): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(55,20): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(114,58): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(114,31): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(119,35): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(119,21): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(174,80): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(174,56): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(174,30): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(179,43): warning C4244: 'argument': conversion from 'const double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(179,33): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Curves.h(179,20): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Main.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\EXQ\source\repos\Project2\Project2\Main.cpp(17,19): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\EXQ\source\repos\Project2\Debug\Project2.exe
